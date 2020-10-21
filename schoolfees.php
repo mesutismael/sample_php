@@ -16,7 +16,6 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 <style>
-
 form{ width: 50%; padding: 20px;align:center; }
 .bs-example{
         margin: 20px;
@@ -24,7 +23,6 @@ form{ width: 50%; padding: 20px;align:center; }
 </style>
 </head>
 <body>
-
 <div class="bs-example">
     <nav class="navbar navbar-expand-md navbar-light bg-light">
         <a href="#" class="navbar-brand">
@@ -33,7 +31,6 @@ form{ width: 50%; padding: 20px;align:center; }
         <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>
         </button>
-
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <div class="navbar-nav">
                 <a href="#" class="nav-item nav-link active">Home</a>
@@ -43,8 +40,7 @@ form{ width: 50%; padding: 20px;align:center; }
             </div>
 
         </div>
-    </nav>
-    
+    </nav>   
 <form>
   <div class="form-group" >
                         <label>School Code</label>
@@ -62,9 +58,6 @@ form{ width: 50%; padding: 20px;align:center; }
     <!-- Button HTML (to Trigger Modal) -->
     <a href="#myModal" class="trigger-btn" data-toggle="modal">Pay</a>  
 </form>
-
-    
-
 
 </div>
 
